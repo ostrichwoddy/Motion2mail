@@ -21,3 +21,11 @@ Motion2mail uses the OpenCV library to initialize webcam and stores the first fr
 
 ## ⚠️ DISCLAIMER
 Ensure that the SMTP credentials are configured as environment variables on the system. The code will not work unless you configure your SMTP credentials in [emailing.py](emailing.py)
+
+## Demo
+
+### Live Motion Detection
+![Live motion detection with bounding boxes](screenshots/live_detection.png)
+
+### Email Alert
+![Email alert with attached image](screenshots/email_alert.png)
