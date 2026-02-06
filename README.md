@@ -33,7 +33,7 @@ Ensure that the SMTP credentials are configured as environment variables on the 
 
 ## ▶️ INSTALLATION
 
-### PREREQUISITES
+### Prerequisites
 - Python 3.6+
 - Webcam
 - Internet access (for sending the emails)
